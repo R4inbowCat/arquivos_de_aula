@@ -1,0 +1,7 @@
+Nome: Leandro
+Nota: 2
+Turma: A
+Nome: Ana
+Nota: 12
+Turma: D
+Olá eu modifiquei o seu arquivo
